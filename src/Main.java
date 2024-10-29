@@ -6,7 +6,7 @@ public class Main {
         student.getInfo();
         System.out.println();
         employee.getInfo();
-        System.out.println("Years since 20: " + employee.yearsSinceTwenty());
+
 
         }
     }
